@@ -15,7 +15,7 @@ chatStr = ""
 
 def chat(query):
     global chatStr
-    chatStr += f"Vivek: {query}\nJarvis: "
+    chatStr += f"User: {query}\nJarvis: "
     conversation = []
     conversation.append({'role': 'system', 'content': chatStr})
     response = openai.ChatCompletion.create(
