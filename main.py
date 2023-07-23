@@ -60,8 +60,8 @@ def takeCommand():
 
 # beginning of AI
 if __name__ == '__main__':
-    print("HELLO I AM Vivek's A.I. Bot")
-    speaker.Speak("Hello I am Vivek's A.I. Bot, How can I help you")
+    print("Hello I am Athena")
+    speaker.Speak("Hello I am Athena Desktop Assistant, How can I help you")
     while True:
         print("Listening....")
         query = takeCommand()
