@@ -48,7 +48,7 @@ def ai(prompt):
 def takeCommand():
     r = sr.Recognizer()
     with sr.Microphone() as source:
-        audio = r.listen(source)
+        audio = r.listen(source) 
         try:
             print("Recognising...")
             query = r.recognize_google(audio, language="en-in")
@@ -58,6 +58,7 @@ def takeCommand():
             return "Some error occured, Sorry from Jarvis"
 
 
+# beginning of AI
 if __name__ == '__main__':
     print("HELLO I AM Vivek's A.I. Bot")
     speaker.Speak("Hello I am Vivek's A.I. Bot, How can I help you")
