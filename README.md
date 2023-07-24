@@ -27,6 +27,7 @@ The AI Desktop Assistant is a Python-based project that utilizes the OpenAI API,
       Run the following command in the directory: 
       ```bash
       pip install ./PyAudio-0.2.11-cp311-cp311-win_amd64.whl
+      pip install -r requirements.txt
 
 4. Obtain API Keys: 
     <ul>
