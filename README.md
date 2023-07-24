@@ -25,16 +25,17 @@ The AI Desktop Assistant is a Python-based project that utilizes the OpenAI API,
    cd Athena_Desktop_Assistant
    
 2. Install the required packages
+   Run the following command int the directory: 
    ```bash
-   pip install -r requirements.txt
+   pip install ./PyAudio-0.2.11-cp311-cp311-win_amd64.whl
 
-3. Obtain API Keys: 
+4. Obtain API Keys: 
     <ul>
       <li>OpenAI API: Visit https://openai.com to sign up for an API key.</li>
       <li>Weather API: Sign up for a Weather API key at https://weatherapi.com.</li>
     </ul>
     
-4. Set up the configuration:
+5. Set up the configuration:
      <ul>
       <li>Add your API keys to the <b>config.py</b> file:</li>
     </ul>
