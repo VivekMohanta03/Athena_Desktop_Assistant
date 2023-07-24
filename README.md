@@ -3,8 +3,7 @@
 <h3>Athena is an AI Desktop Assistant developed using OpenAI API, Weather API, and Python Speech Recognition
 </h3>
 
-
-![AI Desktop Assistant](https://camo.githubusercontent.com/827677137ce9b69881e72e3d0fd02633fb7a7fd409db81c0b2b500fbaeb8ffa3/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3231322f3231323530382e676966)
+<img alt="AI Desktop Assistant" width="300" src ="https://camo.githubusercontent.com/827677137ce9b69881e72e3d0fd02633fb7a7fd409db81c0b2b500fbaeb8ffa3/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3231322f3231323530382e676966">
 
 ## Introduction
 
