@@ -24,8 +24,8 @@ The AI Desktop Assistant is a Python-based project that utilizes the OpenAI API,
    git clone https://github.com/your-username/Athena_Desktop_Assistant.git
    cd Athena_Desktop_Assistant
    
-2. Install the required packages<br>
-   Run the following command int the directory: 
+2. Install the required packages
+      Run the following command in the directory: 
    ```bash
    pip install ./PyAudio-0.2.11-cp311-cp311-win_amd64.whl
 
