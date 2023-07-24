@@ -51,6 +51,7 @@ The AI Desktop Assistant is a Python-based project that utilizes the OpenAI API,
        <li>"What is the time?"</li>
        <li>"What's the weather?"</li>
        <li>"Tell me a joke."</li>
+       <li>"Open Youtube."</li>
      </ul>
      
 3. The assistant will process your command and respond accordingly using the OpenAI API and Weather API.
